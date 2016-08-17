@@ -10,6 +10,7 @@ docker run -v "$PWD/product-details:/app/product-details" "$IMAGE_NAME"
 rm -f "$UPDATE_FILE"
 
 if [[ "$1" == "push" ]]; then
+    git checkout master
     git add ./product-details/
     if git commit -m "Update product-details data"; then
         git push origin master
