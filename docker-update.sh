@@ -7,7 +7,7 @@ docker run -v "$PWD/product-details:/app/product-details" "$IMAGE_NAME"
 
 # UPDATE_FILE is an indicator we can use in Jenkins
 # to run other jobs if there was, in fact, an update
-rm "$UPDATE_FILE" || true
+rm -f "$UPDATE_FILE"
 
 if [[ "$1" == "push" ]]; then
     git add ./product-details/
