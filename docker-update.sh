@@ -15,9 +15,7 @@ if [[ "$1" == "commit" ]]; then
     if git commit -m "Update product-details data"; then
         git rev-parse HEAD > "$UPDATE_FILE"
         echo "Product-details update committed"
-        exit 0
     else
         echo "No new product-details"
-        exit 1
     fi
 fi
