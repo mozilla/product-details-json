@@ -3215,6 +3215,19 @@
             }
         }
     }, 
+    "my": {
+        "50.0a2": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "nb-NO": {
         "45.3.0esr": {
             "Linux": {
@@ -4317,6 +4330,19 @@
             }
         }, 
         "51.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
+    "tl": {
+        "50.0a2": {
             "Linux": {
                 "filesize": 0
             }, 
