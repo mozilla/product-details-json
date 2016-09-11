@@ -11,8 +11,9 @@ docker run -v "$PWD/product-details:/app/product-details" "$IMAGE_NAME"
 rm -f "$UPDATE_FILE"
 
 if [[ "$1" == "commit" ]]; then
-    git add ./product-details/
-    if git commit -m "Update product-details data"; then
+    if git status --porcelain | grep -E "\.json$"; then
+        git add ./product-details/
+        git commit -m "Update product-details data"
         git rev-parse HEAD > "$UPDATE_FILE"
         echo "Product-details update committed"
     else
