@@ -26,7 +26,7 @@ def path(*paths):
 
 
 def update_data():
-    call_command('update_product_details')
+    call_command('update_product_details', force=True)
 
 
 def count_builds(version_key, min_builds=20):
