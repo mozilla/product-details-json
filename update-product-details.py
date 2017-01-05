@@ -19,6 +19,12 @@ FIREFOX_VERSION_KEYS = (
     'LATEST_FIREFOX_RELEASED_DEVEL_VERSION',
     'LATEST_FIREFOX_VERSION',
 )
+# so far p-d only lists builds for the latest version
+# bedrock uses the locales for the release channel to
+# build download pages for the other channels
+THUNDERBIRD_VERSION_KEYS = (
+    'LATEST_THUNDERBIRD_VERSION',
+)
 
 
 def path(*paths):
@@ -29,7 +35,15 @@ def update_data():
     call_command('update_product_details', force=True)
 
 
-def count_builds(version_key, min_builds=20):
+def count_thunderbird_builds(version_key, min_builds=20):
+    version = pd.thunderbird_versions[version_key]
+    builds = len([locale for locale, build in pd.thunderbird_primary_builds.items()
+                  if version in build])
+    if builds < min_builds:
+        raise ValueError('Too few builds for {}'.format(version_key))
+
+
+def count_firefox_builds(version_key, min_builds=20):
     version = pd.firefox_versions[version_key]
     if not version:
         if version_key == 'FIREFOX_ESR_NEXT':
@@ -42,7 +56,10 @@ def count_builds(version_key, min_builds=20):
 
 def validate_data():
     for key in FIREFOX_VERSION_KEYS:
-        count_builds(key)
+        count_firefox_builds(key)
+
+    for key in THUNDERBIRD_VERSION_KEYS:
+        count_thunderbird_builds(key)
 
 
 # setup and run
@@ -61,12 +78,11 @@ settings.configure(
 )
 django.setup()
 
-
 from product_details import product_details as pd  # noqa
 
-
-update_data()
-try:
-    validate_data()
-except Exception as e:
-    sys.exit('Product Details data is not valid: {}'.format(e))
+if __name__ == '__main__':
+    update_data()
+    try:
+        validate_data()
+    except Exception as e:
+        sys.exit('Product Details data is not valid: {}'.format(e))
