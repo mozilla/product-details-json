@@ -3877,6 +3877,19 @@
             }
         }
     }, 
+    "lo": {
+        "55.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "lt": {
         "45.9.0esr": {
             "Linux": {
