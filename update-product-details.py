@@ -12,7 +12,8 @@ from everett.manager import ConfigManager, ConfigEnvFileEnv, ConfigOSEnv
 ROOT = Path(__file__).resolve().parent
 FIREFOX_VERSION_KEYS = (
     'FIREFOX_NIGHTLY',
-    'FIREFOX_AURORA',
+    # 'FIREFOX_AURORA',
+    'FIREFOX_DEVEDITION',
     'FIREFOX_ESR',
     'FIREFOX_ESR_NEXT',
     'LATEST_FIREFOX_DEVEL_VERSION',
