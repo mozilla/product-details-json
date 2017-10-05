@@ -2667,6 +2667,19 @@
             }
         }
     }, 
+    "ia": {
+        "58.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "id": {
         "52.4.0esr": {
             "Linux": {
