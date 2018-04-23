@@ -843,6 +843,19 @@
             }
         }
     }, 
+    "crh": {
+        "61.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "cs": {
         "52.7.3esr": {
             "Linux": {
