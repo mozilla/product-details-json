@@ -1198,6 +1198,19 @@
             }
         }
     }, 
+    "en-CA": {
+        "61.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "en-GB": {
         "52.7.4esr": {
             "Linux": {
