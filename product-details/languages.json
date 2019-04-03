@@ -1,11 +1,11 @@
 {
-    "af": {
-        "English": "Afrikaans",
-        "native": "Afrikaans"
-    },
     "ach": {
         "English": "Acholi",
         "native": "Acholi"
+    },
+    "af": {
+        "English": "Afrikaans",
+        "native": "Afrikaans"
     },
     "ak": {
         "English": "Akan",
@@ -339,13 +339,13 @@
         "English": "Konkani",
         "native": "\u0915\u094b\u0902\u0915\u0928\u0940"
     },
-    "ku": {
-        "English": "Kurdish",
-        "native": "Kurd\u00ee"
-    },
     "ks": {
         "English": "Kashmiri",
         "native": "\u0643\u0634\u0645\u06cc\u0631\u06cc"
+    },
+    "ku": {
+        "English": "Kurdish",
+        "native": "Kurd\u00ee"
     },
     "la": {
         "English": "Latin",
@@ -423,13 +423,13 @@
         "English": "Nepali",
         "native": "\u0928\u0947\u092a\u093e\u0932\u0940"
     },
-    "nn-NO": {
-        "English": "Norwegian (Nynorsk)",
-        "native": "Norsk nynorsk"
-    },
     "nl": {
         "English": "Dutch",
         "native": "Nederlands"
+    },
+    "nn-NO": {
+        "English": "Norwegian (Nynorsk)",
+        "native": "Norsk nynorsk"
     },
     "nr": {
         "English": "Ndebele, South",
@@ -467,13 +467,13 @@
         "English": "Portuguese (Portugal)",
         "native": "Portugu\u00eas (Europeu)"
     },
-    "ro": {
-        "English": "Romanian",
-        "native": "Rom\u00e2n\u0103"
-    },
     "rm": {
         "English": "Romansh",
         "native": "rumantsch"
+    },
+    "ro": {
+        "English": "Romanian",
+        "native": "Rom\u00e2n\u0103"
     },
     "ru": {
         "English": "Russian",
@@ -487,13 +487,13 @@
         "English": "Sanskrit",
         "native": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924"
     },
-    "sat": {
-        "English": "Santali",
-        "native": "\u0938\u0902\u0924\u093e\u0932\u0940"
-    },
     "sah": {
         "English": "Sakha",
         "native": "\u0421\u0430\u0445\u0430\u043b\u044b\u044b"
+    },
+    "sat": {
+        "English": "Santali",
+        "native": "\u0938\u0902\u0924\u093e\u0932\u0940"
     },
     "si": {
         "English": "Sinhala",
