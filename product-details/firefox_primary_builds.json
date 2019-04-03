@@ -271,17 +271,6 @@
             "Windows": {
                 "filesize": 0
             }
-        }, 
-        "68.0a1": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
         }
     }, 
     "ast": {
@@ -512,6 +501,19 @@
             }
         }
     }, 
+    "bn": {
+        "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            }, 
+            "OS X": {
+                "filesize": 0
+            }, 
+            "Windows": {
+                "filesize": 0
+            }
+        }
+    }, 
     "bn-BD": {
         "54.0a2": {
             "Linux": {
@@ -547,17 +549,6 @@
             }
         }, 
         "67.0b7": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
-        }, 
-        "68.0a1": {
             "Linux": {
                 "filesize": 0
             }, 
@@ -604,17 +595,6 @@
             }
         }, 
         "67.0b7": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
-        }, 
-        "68.0a1": {
             "Linux": {
                 "filesize": 0
             }, 
@@ -1393,17 +1373,6 @@
             }
         }, 
         "67.0b7": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
-        }, 
-        "68.0a1": {
             "Linux": {
                 "filesize": 0
             }, 
@@ -3594,17 +3563,6 @@
             "Windows": {
                 "filesize": 0
             }
-        }, 
-        "68.0a1": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
         }
     }, 
     "mk": {
@@ -3699,17 +3657,6 @@
             }
         }, 
         "67.0b7": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
-        }, 
-        "68.0a1": {
             "Linux": {
                 "filesize": 0
             }, 
@@ -4201,17 +4148,6 @@
             }
         }, 
         "67.0b7": {
-            "Linux": {
-                "filesize": 0
-            }, 
-            "OS X": {
-                "filesize": 0
-            }, 
-            "Windows": {
-                "filesize": 0
-            }
-        }, 
-        "68.0a1": {
             "Linux": {
                 "filesize": 0
             }, 
