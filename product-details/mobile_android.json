@@ -4698,6 +4698,15 @@
             "product": "fennec",
             "version": "67.0b7"
         },
+        "fennec-67.0b9": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-04-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "67.0b9"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
