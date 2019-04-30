@@ -6381,6 +6381,15 @@
             "product": "fennec",
             "version": "67.0b14"
         },
+        "fennec-67.0b15": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-04-30",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "67.0b15"
+        },
         "fennec-67.0b3": {
             "build_number": 1,
             "category": "dev",
