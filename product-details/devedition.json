@@ -1620,6 +1620,15 @@
             "product": "devedition",
             "version": "67.0b15"
         },
+        "devedition-67.0b16": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-05-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "67.0b16"
+        },
         "devedition-67.0b2": {
             "build_number": 1,
             "category": "dev",
