@@ -8802,6 +8802,15 @@
             "product": "firefox",
             "version": "66.0.4"
         },
+        "firefox-66.0.5": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-05-07",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "66.0.5"
+        },
         "firefox-66.0b10": {
             "build_number": 1,
             "category": "dev",
