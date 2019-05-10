@@ -2610,6 +2610,15 @@
             "product": "thunderbird",
             "version": "67.0b2"
         },
+        "thunderbird-67.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-05-10",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "67.0b3"
+        },
         "thunderbird-7.0": {
             "build_number": 1,
             "category": "major",
