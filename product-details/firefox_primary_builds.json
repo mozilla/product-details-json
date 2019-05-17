@@ -43,6 +43,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "af": {
@@ -80,6 +91,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -135,6 +157,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ar": {
@@ -172,6 +205,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -262,6 +306,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "az": {
@@ -299,6 +354,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -354,6 +420,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "bg": {
@@ -400,10 +477,32 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "bn": {
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -529,6 +628,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "bs": {
@@ -566,6 +676,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -621,6 +742,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "cak": {
@@ -658,6 +790,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -726,6 +869,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "cy": {
@@ -763,6 +917,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -818,6 +983,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "de": {
@@ -855,6 +1031,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -910,6 +1097,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "el": {
@@ -956,6 +1154,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "en-CA": {
@@ -982,6 +1191,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1037,6 +1257,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "en-US": {
@@ -1074,6 +1305,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1164,6 +1406,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "es-AR": {
@@ -1201,6 +1454,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1256,6 +1520,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "es-ES": {
@@ -1293,6 +1568,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1348,6 +1634,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "et": {
@@ -1385,6 +1682,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1440,6 +1748,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "fa": {
@@ -1477,6 +1796,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1532,6 +1862,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "fi": {
@@ -1569,6 +1910,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1624,6 +1976,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "fy-NL": {
@@ -1661,6 +2024,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1716,6 +2090,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "gd": {
@@ -1753,6 +2138,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1808,6 +2204,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "gn": {
@@ -1845,6 +2252,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1900,6 +2318,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "he": {
@@ -1937,6 +2366,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -1992,6 +2432,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "hr": {
@@ -2029,6 +2480,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2084,6 +2546,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "hu": {
@@ -2121,6 +2594,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2176,6 +2660,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ia": {
@@ -2213,6 +2708,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2268,6 +2774,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "is": {
@@ -2305,6 +2822,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2360,6 +2888,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ja": {
@@ -2397,6 +2936,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2452,6 +3002,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "kab": {
@@ -2489,6 +3050,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2544,6 +3116,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "km": {
@@ -2581,6 +3164,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2636,6 +3230,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ko": {
@@ -2682,6 +3287,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "lij": {
@@ -2719,6 +3335,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2787,6 +3414,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ltg": {
@@ -2837,6 +3475,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -2927,6 +3576,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ml": {
@@ -3008,6 +3668,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ms": {
@@ -3045,6 +3716,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3100,6 +3782,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "nb-NO": {
@@ -3137,6 +3830,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3192,6 +3896,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "nl": {
@@ -3229,6 +3944,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3284,6 +4010,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "oc": {
@@ -3321,6 +4058,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3411,6 +4159,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "pl": {
@@ -3448,6 +4207,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3503,6 +4273,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "pt-PT": {
@@ -3540,6 +4321,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3595,6 +4387,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ro": {
@@ -3632,6 +4435,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3687,6 +4501,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "si": {
@@ -3724,6 +4549,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3779,6 +4615,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "sl": {
@@ -3816,6 +4663,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3871,6 +4729,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "sq": {
@@ -3908,6 +4777,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -3963,6 +4843,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "sv-SE": {
@@ -4000,6 +4891,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -4055,6 +4957,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "te": {
@@ -4101,6 +5014,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "th": {
@@ -4138,6 +5062,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -4206,6 +5141,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "trs": {
@@ -4265,6 +5211,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "ur": {
@@ -4302,6 +5259,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -4357,6 +5325,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "vi": {
@@ -4394,6 +5373,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
@@ -4462,6 +5452,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "zh-CN": {
@@ -4508,6 +5509,17 @@
             "Windows": {
                 "filesize": 0
             }
+        },
+        "68.0b1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
         }
     },
     "zh-TW": {
@@ -4545,6 +5557,17 @@
             }
         },
         "68.0a1": {
+            "Linux": {
+                "filesize": 0
+            },
+            "OS X": {
+                "filesize": 0
+            },
+            "Windows": {
+                "filesize": 0
+            }
+        },
+        "68.0b1": {
             "Linux": {
                 "filesize": 0
             },
