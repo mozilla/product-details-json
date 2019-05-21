@@ -8064,6 +8064,15 @@
             "product": "firefox",
             "version": "60.6.3"
         },
+        "firefox-60.7.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-05-21",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.7.0"
+        },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
