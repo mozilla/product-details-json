@@ -8946,6 +8946,15 @@
             "product": "firefox",
             "version": "67.0"
         },
+        "firefox-67.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-06-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "67.0.1"
+        },
         "firefox-67.0b10": {
             "build_number": 1,
             "category": "dev",
