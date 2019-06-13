@@ -2493,6 +2493,15 @@
             "product": "thunderbird",
             "version": "60.7.0"
         },
+        "thunderbird-60.7.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-06-13",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.7.1"
+        },
         "thunderbird-63.0b1": {
             "build_number": 2,
             "category": "dev",
