@@ -1737,6 +1737,15 @@
             "product": "devedition",
             "version": "68.0b1"
         },
+        "devedition-68.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-06-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "68.0b10"
+        },
         "devedition-68.0b2": {
             "build_number": 1,
             "category": "dev",
@@ -6614,6 +6623,15 @@
             "is_security_driven": false,
             "product": "fennec",
             "version": "67.0b9"
+        },
+        "fennec-68.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-06-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.0b10"
         },
         "fennec-68.0b3": {
             "build_number": 1,
@@ -15957,6 +15975,15 @@
             "product": "firefox",
             "version": "67.0b9"
         },
+        "firefox-68.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-06-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.0b10"
+        },
         "firefox-68.0b3": {
             "build_number": 2,
             "category": "dev",
@@ -18863,6 +18890,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "67.0b3"
+        },
+        "thunderbird-68.0b1": {
+            "build_number": 4,
+            "category": "dev",
+            "date": "2019-06-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.0b1"
         },
         "thunderbird-7.0": {
             "build_number": 1,
