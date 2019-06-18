@@ -6525,6 +6525,15 @@
             "product": "fennec",
             "version": "67.0.2"
         },
+        "fennec-67.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-06-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "67.0.3"
+        },
         "fennec-67.0b11": {
             "build_number": 1,
             "category": "dev",
@@ -14949,6 +14958,15 @@
             "product": "firefox",
             "version": "60.7.0"
         },
+        "firefox-60.7.1esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-06-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.7.1"
+        },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
@@ -15839,6 +15857,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "67.0.2"
+        },
+        "firefox-67.0.3": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-06-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "67.0.3"
         },
         "firefox-67.0b10": {
             "build_number": 1,
