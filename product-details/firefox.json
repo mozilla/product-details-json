@@ -8082,6 +8082,15 @@
             "product": "firefox",
             "version": "60.7.1"
         },
+        "firefox-60.7.2esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-06-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.7.2"
+        },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
@@ -8981,6 +8990,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "67.0.3"
+        },
+        "firefox-67.0.4": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-06-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "67.0.4"
         },
         "firefox-67.0b10": {
             "build_number": 1,
