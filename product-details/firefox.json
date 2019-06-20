@@ -9171,6 +9171,15 @@
             "product": "firefox",
             "version": "68.0b11"
         },
+        "firefox-68.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-06-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.0b12"
+        },
         "firefox-68.0b3": {
             "build_number": 2,
             "category": "dev",
