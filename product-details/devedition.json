@@ -1773,6 +1773,15 @@
             "product": "devedition",
             "version": "68.0b13"
         },
+        "devedition-68.0b14": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-06-28",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "68.0b14"
+        },
         "devedition-68.0b2": {
             "build_number": 1,
             "category": "dev",
