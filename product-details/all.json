@@ -1872,6 +1872,15 @@
             "product": "devedition",
             "version": "69.0b2"
         },
+        "devedition-69.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "69.0b3"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -14744,7 +14753,7 @@
         },
         "firefox-60.0.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-05-16",
             "description": null,
             "is_security_driven": false,
@@ -14762,7 +14771,7 @@
         },
         "firefox-60.0.2esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-06-06",
             "description": null,
             "is_security_driven": false,
@@ -14897,7 +14906,7 @@
         },
         "firefox-60.0esr": {
             "build_number": 6,
-            "category": "esr",
+            "category": "major",
             "date": "2018-05-09",
             "description": null,
             "is_security_driven": false,
@@ -14906,7 +14915,7 @@
         },
         "firefox-60.1.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-06-26",
             "description": null,
             "is_security_driven": false,
@@ -14915,7 +14924,7 @@
         },
         "firefox-60.2.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-09-05",
             "description": null,
             "is_security_driven": false,
@@ -14924,7 +14933,7 @@
         },
         "firefox-60.2.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-09-21",
             "description": null,
             "is_security_driven": false,
@@ -14933,7 +14942,7 @@
         },
         "firefox-60.2.2esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-10-02",
             "description": null,
             "is_security_driven": false,
@@ -14942,7 +14951,7 @@
         },
         "firefox-60.3.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-10-23",
             "description": null,
             "is_security_driven": false,
@@ -14951,7 +14960,7 @@
         },
         "firefox-60.4.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2018-12-11",
             "description": null,
             "is_security_driven": false,
@@ -14960,7 +14969,7 @@
         },
         "firefox-60.5.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-01-29",
             "description": null,
             "is_security_driven": false,
@@ -14969,7 +14978,7 @@
         },
         "firefox-60.5.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-02-12",
             "description": null,
             "is_security_driven": false,
@@ -14978,7 +14987,7 @@
         },
         "firefox-60.5.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-02-22",
             "description": null,
             "is_security_driven": false,
@@ -14987,7 +14996,7 @@
         },
         "firefox-60.6.0esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-03-19",
             "description": null,
             "is_security_driven": false,
@@ -14996,7 +15005,7 @@
         },
         "firefox-60.6.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-03-22",
             "description": null,
             "is_security_driven": false,
@@ -15005,7 +15014,7 @@
         },
         "firefox-60.6.2esr": {
             "build_number": 2,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-05-05",
             "description": null,
             "is_security_driven": false,
@@ -15014,7 +15023,7 @@
         },
         "firefox-60.6.3esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-05-08",
             "description": null,
             "is_security_driven": false,
@@ -15023,7 +15032,7 @@
         },
         "firefox-60.7.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-05-21",
             "description": null,
             "is_security_driven": false,
@@ -15032,7 +15041,7 @@
         },
         "firefox-60.7.1esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-06-18",
             "description": null,
             "is_security_driven": false,
@@ -15041,7 +15050,7 @@
         },
         "firefox-60.7.2esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-06-20",
             "description": null,
             "is_security_driven": false,
@@ -15050,7 +15059,7 @@
         },
         "firefox-60.8.0esr": {
             "build_number": 1,
-            "category": "esr",
+            "category": "stability",
             "date": "2019-07-09",
             "description": null,
             "is_security_driven": false,
@@ -16238,12 +16247,21 @@
         },
         "firefox-68.0esr": {
             "build_number": 2,
-            "category": "major",
+            "category": "esr",
             "date": "2019-07-09",
             "description": null,
             "is_security_driven": false,
             "product": "firefox",
             "version": "68.0"
+        },
+        "firefox-69.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0b3"
         },
         "firefox-7.0": {
             "build_number": 1,
@@ -18962,6 +18980,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "60.7.2"
+        },
+        "thunderbird-60.8.0": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-07-09",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.8.0"
         },
         "thunderbird-63.0b1": {
             "build_number": 2,
