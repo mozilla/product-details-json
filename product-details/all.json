@@ -1890,6 +1890,15 @@
             "product": "devedition",
             "version": "69.0b4"
         },
+        "devedition-69.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "69.0b5"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -6794,6 +6803,15 @@
             "is_security_driven": false,
             "product": "fennec",
             "version": "68.1b1"
+        },
+        "fennec-68.1b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.1b2"
         },
         "fennec-7.0": {
             "build_number": 1,
@@ -16289,6 +16307,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "69.0b4"
+        },
+        "firefox-69.0b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-16",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0b5"
         },
         "firefox-7.0": {
             "build_number": 1,
