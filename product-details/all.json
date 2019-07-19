@@ -1899,6 +1899,15 @@
             "product": "devedition",
             "version": "69.0b5"
         },
+        "devedition-69.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "69.0b6"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -16335,6 +16344,15 @@
             "product": "firefox",
             "version": "69.0b5"
         },
+        "firefox-69.0b6": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0b6"
+        },
         "firefox-7.0": {
             "build_number": 1,
             "category": "major",
@@ -19232,6 +19250,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "68.0b4"
+        },
+        "thunderbird-68.0b5": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-07-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.0b5"
         },
         "thunderbird-7.0": {
             "build_number": 1,
