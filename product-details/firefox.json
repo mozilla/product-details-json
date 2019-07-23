@@ -9342,6 +9342,15 @@
             "product": "firefox",
             "version": "69.0b6"
         },
+        "firefox-69.0b7": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-07-23",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0b7"
+        },
         "firefox-7.0": {
             "build_number": 1,
             "category": "major",
