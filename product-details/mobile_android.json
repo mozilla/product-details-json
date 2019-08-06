@@ -4932,6 +4932,15 @@
             "product": "fennec",
             "version": "68.1b4"
         },
+        "fennec-68.1b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-08-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.1b5"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
