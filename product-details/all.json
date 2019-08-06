@@ -19359,6 +19359,15 @@
             "product": "thunderbird",
             "version": "69.0b1"
         },
+        "thunderbird-69.0b2": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-08-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "69.0b2"
+        },
         "thunderbird-7.0": {
             "build_number": 1,
             "category": "major",
