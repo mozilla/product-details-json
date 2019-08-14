@@ -9189,6 +9189,24 @@
             "product": "firefox",
             "version": "68.0.1"
         },
+        "firefox-68.0.2": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-08-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.0.2"
+        },
+        "firefox-68.0.2esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-08-14",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.0.2"
+        },
         "firefox-68.0b10": {
             "build_number": 1,
             "category": "dev",
