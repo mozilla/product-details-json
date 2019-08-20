@@ -1908,6 +1908,15 @@
             "product": "devedition",
             "version": "69.0b14"
         },
+        "devedition-69.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-08-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "69.0b15"
+        },
         "devedition-69.0b2": {
             "build_number": 1,
             "category": "dev",
@@ -16496,6 +16505,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "69.0b14"
+        },
+        "firefox-69.0b15": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-08-20",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0b15"
         },
         "firefox-69.0b3": {
             "build_number": 1,
