@@ -1998,6 +1998,15 @@
             "product": "devedition",
             "version": "69.0b9"
         },
+        "devedition-70.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2019-08-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "70.0b1"
+        },
         "fennec-1.0": {
             "build_number": 1,
             "category": "major",
@@ -19475,6 +19484,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "67.0b3"
+        },
+        "thunderbird-68.0": {
+            "build_number": 6,
+            "category": "major",
+            "date": "2019-08-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.0"
         },
         "thunderbird-68.0b1": {
             "build_number": 4,

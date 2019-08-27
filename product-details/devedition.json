@@ -1997,6 +1997,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "69.0b9"
+        },
+        "devedition-70.0b1": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2019-08-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "70.0b1"
         }
     }
 }
