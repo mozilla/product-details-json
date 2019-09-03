@@ -8100,6 +8100,15 @@
             "product": "firefox",
             "version": "60.8.0"
         },
+        "firefox-60.9.0esr": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "60.9.0"
+        },
         "firefox-61.0": {
             "build_number": 3,
             "category": "major",
@@ -9323,6 +9332,24 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "68.0"
+        },
+        "firefox-68.1.0esr": {
+            "build_number": 1,
+            "category": "esr",
+            "date": "2019-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "68.1.0"
+        },
+        "firefox-69.0": {
+            "build_number": 2,
+            "category": "major",
+            "date": "2019-09-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0"
         },
         "firefox-69.0b10": {
             "build_number": 1,
