@@ -19665,6 +19665,15 @@
             "product": "thunderbird",
             "version": "68.0b5"
         },
+        "thunderbird-68.1.0": {
+            "build_number": 3,
+            "category": "stability",
+            "date": "2019-09-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.1.0"
+        },
         "thunderbird-69.0b1": {
             "build_number": 2,
             "category": "dev",
@@ -19718,6 +19727,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "7.0.1"
+        },
+        "thunderbird-70.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-09-11",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "70.0b1"
         },
         "thunderbird-8.0": {
             "build_number": 1,
