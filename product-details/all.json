@@ -16623,6 +16623,15 @@
             "product": "firefox",
             "version": "69.0"
         },
+        "firefox-69.0.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-09-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "69.0.1"
+        },
         "firefox-69.0b10": {
             "build_number": 1,
             "category": "dev",
