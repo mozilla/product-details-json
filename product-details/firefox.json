@@ -9549,6 +9549,15 @@
             "product": "firefox",
             "version": "7.0b6"
         },
+        "firefox-70.0b10": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-09-27",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "70.0b10"
+        },
         "firefox-70.0b3": {
             "build_number": 3,
             "category": "dev",
