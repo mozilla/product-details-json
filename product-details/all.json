@@ -19935,6 +19935,15 @@
             "product": "thunderbird",
             "version": "70.0b2"
         },
+        "thunderbird-70.0b3": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-10-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "70.0b3"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
