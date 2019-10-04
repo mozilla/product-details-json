@@ -2025,6 +2025,15 @@
             "product": "devedition",
             "version": "70.0b11"
         },
+        "devedition-70.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-10-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "70.0b12"
+        },
         "devedition-70.0b2": {
             "build_number": 2,
             "category": "dev",
@@ -16901,6 +16910,15 @@
             "is_security_driven": false,
             "product": "firefox",
             "version": "70.0b11"
+        },
+        "firefox-70.0b12": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-10-04",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "70.0b12"
         },
         "firefox-70.0b3": {
             "build_number": 3,
