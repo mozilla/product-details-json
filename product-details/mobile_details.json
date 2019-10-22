@@ -11,7 +11,7 @@
             }
         }
     ],
-    "alpha_version": "68.2a1",
+    "alpha_version": "68.3a1",
     "beta_builds": [
         {
             "download": {
@@ -134,7 +134,7 @@
             }
         }
     ],
-    "beta_version": "68.2b7",
+    "beta_version": "68.3b1",
     "builds": [
         {
             "locale": {
@@ -356,6 +356,6 @@
     ],
     "ios_beta_version": "",
     "ios_version": "12.1",
-    "nightly_version": "68.2a1",
+    "nightly_version": "68.3a1",
     "version": "68.2.0"
 }
