@@ -20106,6 +20106,15 @@
             "product": "thunderbird",
             "version": "70.0b4"
         },
+        "thunderbird-71.0b1": {
+            "build_number": 2,
+            "category": "dev",
+            "date": "2019-10-24",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "71.0b1"
+        },
         "thunderbird-8.0": {
             "build_number": 1,
             "category": "major",
