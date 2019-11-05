@@ -2529,6 +2529,15 @@
             "product": "thunderbird",
             "version": "60.9.0"
         },
+        "thunderbird-60.9.1": {
+            "build_number": 1,
+            "category": "stability",
+            "date": "2019-11-05",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "60.9.1"
+        },
         "thunderbird-63.0b1": {
             "build_number": 2,
             "category": "dev",
