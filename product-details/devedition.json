@@ -2186,6 +2186,15 @@
             "is_security_driven": false,
             "product": "devedition",
             "version": "71.0b7"
+        },
+        "devedition-71.0b8": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-11-08",
+            "description": null,
+            "is_security_driven": false,
+            "product": "devedition",
+            "version": "71.0b8"
         }
     }
 }
