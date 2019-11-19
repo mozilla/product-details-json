@@ -7326,6 +7326,15 @@
             "product": "fennec",
             "version": "68.3b4"
         },
+        "fennec-68.3b5": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-11-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "fennec",
+            "version": "68.3b5"
+        },
         "fennec-7.0": {
             "build_number": 1,
             "category": "major",
@@ -20321,6 +20330,15 @@
             "is_security_driven": false,
             "product": "thunderbird",
             "version": "71.0b2"
+        },
+        "thunderbird-71.0b3": {
+            "build_number": 3,
+            "category": "dev",
+            "date": "2019-11-18",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "71.0b3"
         },
         "thunderbird-8.0": {
             "build_number": 1,
