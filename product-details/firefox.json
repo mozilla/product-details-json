@@ -9711,6 +9711,15 @@
             "product": "firefox",
             "version": "71.0b10"
         },
+        "firefox-71.0b11": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-11-19",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "71.0b11"
+        },
         "firefox-71.0b3": {
             "build_number": 1,
             "category": "dev",
