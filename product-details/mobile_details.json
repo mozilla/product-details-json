@@ -134,7 +134,7 @@
             }
         }
     ],
-    "beta_version": "68.3b5",
+    "beta_version": "68.3b6",
     "builds": [
         {
             "locale": {
@@ -357,5 +357,5 @@
     "ios_beta_version": "",
     "ios_version": "12.1",
     "nightly_version": "68.3a1",
-    "version": "68.2.1"
+    "version": "68.3.0"
 }
