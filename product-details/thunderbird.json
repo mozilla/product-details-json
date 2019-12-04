@@ -2781,6 +2781,15 @@
             "product": "thunderbird",
             "version": "68.2.2"
         },
+        "thunderbird-68.3.0": {
+            "build_number": 2,
+            "category": "stability",
+            "date": "2019-12-03",
+            "description": null,
+            "is_security_driven": false,
+            "product": "thunderbird",
+            "version": "68.3.0"
+        },
         "thunderbird-69.0b1": {
             "build_number": 2,
             "category": "dev",
