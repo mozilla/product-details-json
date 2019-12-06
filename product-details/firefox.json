@@ -9828,6 +9828,15 @@
             "product": "firefox",
             "version": "72.0b2"
         },
+        "firefox-72.0b3": {
+            "build_number": 1,
+            "category": "dev",
+            "date": "2019-12-06",
+            "description": null,
+            "is_security_driven": false,
+            "product": "firefox",
+            "version": "72.0b3"
+        },
         "firefox-8.0": {
             "build_number": 1,
             "category": "major",
